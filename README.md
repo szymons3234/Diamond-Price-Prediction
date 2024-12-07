@@ -1,6 +1,7 @@
 # Diamond Price Prediction
 
 The aim of this project is to predict the price of diamonds based on their characteristics. The analysis uses the **Diamonds dataset** from Kaggle, which contains **50,000 observations and 10 variables**.
+![image](https://github.com/user-attachments/assets/7cca4e94-ce35-49fb-8e51-6f49a2bf59ba)
 
 ## Dataset Overview
 
